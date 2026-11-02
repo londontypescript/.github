@@ -5,7 +5,7 @@
 
 ## Intro
 
-London TypeScript is a meetup of over 1,100 members. You can join up and find out more about us and our past events on our official [Meetup page](https://www.meetup.com/london-typescript-meetup/) and on our [website](https://londontypescript.com).
+London TypeScript is a meetup of over 1,100 members. You can join up and find out more about us and our past events on our official [Meetup page](https://www.meetup.com/london-typescript-meetup/).
 
 Our next 2026 event is currently being organised.
 
