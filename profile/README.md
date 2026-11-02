@@ -39,10 +39,6 @@ Temple Bar is the foundation every London TypeScript repo runs on, its own devel
 
 Grand Union is London TypeScript’s single-definition, multi-renderer platform for all our sites: each page is written once and rendered as a website, a 3D site, a terminal site over SSH and a PDF. Pages are built from a shared vocabulary of semantic React components. Each renderer, such as React Three Fiber for 3D or Ink for SSH, implements that vocabulary, and the compiler refuses any renderer that misses a piece.
 
-#### [Little Venice](https://github.com/londontypescript/little-venice) <img align="right" src="https://img.shields.io/badge/0.1.0-not%20started-lightgrey" alt="Not started">
-
-Little Venice is London TypeScript’s official website, londontypescript.com, built with the logos and artwork from Tate Modern. It’s a web-only stop-gap until Grand Union, our multi-renderer platform, reaches its MVP.
-
 ### Studios
 
 ---
