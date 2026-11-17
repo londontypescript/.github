@@ -55,6 +55,6 @@ West End is London TypeScript’s animation studio, bringing Tate Modern’s cha
 
 ---
 
-#### [Fleet Street](https://github.com/londontypescript/fleet-street) <img align="right" src="https://img.shields.io/badge/milestone-none%20open-lightgrey" alt="No open milestone">
+#### [Fleet Street](https://github.com/londontypescript/fleet-street) <a href="https://github.com/londontypescript/fleet-street/milestone/1"><img align="right" src="https://img.shields.io/github/milestones/progress/londontypescript/fleet-street/1" alt="Current milestone progress"></a>
 
 Fleet Street is a Claude Code mod for working across London TypeScript’s repos. It adds a live panel above the prompt bar showing the repo and its milestone, usage, pull requests, sub-sessions, subagents and background tasks.
